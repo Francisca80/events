@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# An mouse event with react-three-fiber
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an example project I did to try out mouse events with React-three-fiber and drei.
 
 ## Available Scripts
 
